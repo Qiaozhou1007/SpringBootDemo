@@ -1,0 +1,26 @@
+student:
+  lastName: zhangsan
+  age: 18
+  birthday: 2022/07/12
+  boss: true
+  maps:
+    keys1: value1
+    keys2: value2
+  maps2: {key3: value3,key4: value3}
+  list:
+    - name: 小黄
+      age: 3
+    - name: 小黑
+      age: 4
+    - {name: 小花,age: 2}
+  arr:
+    - zhangsan
+    - lisi
+  arr2:
+    - wangwu
+    - zhaoliu
+  dogMap:
+    xb: {name: 小白,age: 2}
+    xh:
+      name: 小黑
+      age: 6
